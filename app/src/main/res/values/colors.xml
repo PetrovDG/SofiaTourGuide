@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#6A1B9A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#4A148C</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#E1BEE7</color>
+
+    <!-- Color for a tab that displays a category name -->
+    <color name="tabColor">#ffffff</color>
+
+    <!-- Text color for a category tab -->
+    <color name="textColor">#A8A19E</color>
+
+    <!-- Background color for the Historic category -->
+    <color name="category_historic">#ffc107</color>
+
+    <!-- Background color for the Museums category -->
+    <color name="category_museums">#01579B</color>
+
+    <!-- Background color for the Cultural category -->
+    <color name="category_cultural">#E65100</color>
+
+    <!-- Background color for the Malls category -->
+    <color name="category_malls">#F50057</color>
+
+    <!-- Background color for the Food category -->
+    <color name="category_food">#33691E</color>
+</resources>

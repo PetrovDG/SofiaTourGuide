@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Sofia Tour Guide</string>
+    <!-- Category name for historic sites [CHAR LIMIT=20] -->
+    <string name="category_historic">Historic</string>
+
+    <!-- Category name for the museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for the cultural sites [CHAR LIMIT=20] -->
+    <string name="category_cultural">Cultural</string>
+
+    <!-- Category name for the malls [CHAR LIMIT=20] -->
+    <string name="category_malls">Malls</string>
+
+    <!-- Category name for the food places [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <string name="alexander_nevsky">St. Alexander Nevsky</string>
+    <string name="alexNevskyAdd">\"St. Alexander Nevsky\" Sq.</string>
+    <string name="alexNevskyTime">07:00 "-" 17:30</string>
+
+    <string name="rotunda">St. George Rotunda</string>
+    <string name="rotundaAdd">2, \"Dondukov\" St.</string>
+
+    <string name="serdica">Ancient Serdica</string>
+    <string name="serdicaAdd">\"Sveta Nedelia\" Sq.</string>
+
+    <string name="National_History">National History</string>
+    <string name="National_HistoryAdd">16, \"Vitoshko lale\" St.</string>
+    <string name="National_HistoryTime">9:30 "-" 18:00</string>
+
+    <string name="Earth_Man">Earth and Man</string>
+    <string name="Earth_ManAdd">4, \"Cherni Vrah\" Blvd.</string>
+    <string name="Earth_ManTime">10:00 "-" 18:00</string>
+
+    <string name="basilica">Underground Museum</string>
+    <string name="basilicaAdd">2, \"Paris\" St.</string>
+    <string name="basilicaTime">10:00 "-" 17:00</string>
+
+    <string name="National_Theatre">National Theatre</string>
+    <string name="National_TheatreAdd">5, \"Diakon Ignatii\" St.</string>
+
+    <string name="npc">National Palace of Culture</string>
+    <string name="npcAdd">1, \"Bulgaria\" Sq.</string>
+
+    <string name="opera">Opera House</string>
+    <string name="operaAdd">30, \"Dondukov\" Blvd.</string>
+    <string name="operaTime">09:00 "-" 18:00</string>
+
+    <string name="Mall_Of_Sofia">Mall Of Sofia</string>
+    <string name="Mall_Of_SofiaAdd">101, \"Stamboliyski\" Blvd.</string>
+    <string name="Mall_Of_SofiaTime">10:00 "-" 21:00</string>
+
+    <string name="paradise">Paradise Center</string>
+    <string name="paradiseAdd">100, \"Cherni Vrah\" Blvd.</string>
+    <string name="paradiseTime">10:00 "-" 22:00</string>
+
+    <string name="mall">The Mall</string>
+    <string name="mallAdd">115, \"Tsarigr. shose\" Blvd.</string>
+    <string name="mallTime">10:00 "-" 22:00</string>
+
+    <string name="izbata">\"Izbata\" Tavern</string>
+    <string name="izbataAdd">18, \"Slavianska\" St.</string>
+    <string name="izbataTime">11:00 "-" 24:00</string>
+
+    <string name="divaka">\"Divaka\"</string>
+    <string name="divakaAdd">41A, \"6th September\" St.</string>
+    <string name="divakaTime">10:00 "-" 22:00</string>
+
+    <string name="cactus">\"Cactus\"</string>
+    <string name="cactusAdd">20, \"Hr. Belchev\" St.</string>
+    <string name="cactusTime">12:00 "-" 24:00</string>
+</resources>
